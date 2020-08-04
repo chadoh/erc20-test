@@ -1,0 +1,24 @@
+{
+  "name": "chadoh-token",
+  "version": "1.0.0",
+  "description": "makin an erc20 token lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadoh/chadoh-token.git"
+  },
+  "author": "chadoh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chadoh/chadoh-token/issues"
+  },
+  "homepage": "https://github.com/chadoh/chadoh-token#readme",
+  "devDependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts": "^3.1.0",
+    "ganache-cli": "^6.9.1"
+  }
+}
